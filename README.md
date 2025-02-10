@@ -3,7 +3,7 @@ ETEC 306 Capstone Project (Group 6)
 
 Project Overview
 
-This capstone project aims to designa and implment a GPS-based safety device for skiers utlizing LoRaWAN (Long Range Wide Area Network) technology. 
+This capstone project aims to design and implment a GPS-based safety device for skiers utlizing LoRaWAN (Long Range Wide Area Network) technology. 
 The device provides real-time tracking alerts for skiers locations in case of emergencies such as getting lost or when encountering accidents.
 
 This device is ideally used in areas with poor cellular coverage. The integration of LoRaWAN esnures long range communication and reliable data transfer to a centralized system or to staff via mobile notification.
