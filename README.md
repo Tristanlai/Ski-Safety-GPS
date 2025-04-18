@@ -1,5 +1,5 @@
 # Ski-Safety-GPS
-ETEC 306 Capstone Project (Group 6)
+ETEC 306 Capstone Project (Group 9)
 
 Project Overview
 
